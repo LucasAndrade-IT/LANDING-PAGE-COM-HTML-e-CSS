@@ -9,7 +9,7 @@
 
 body {
   font-size: 100%;
-  background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+  background: linear-gradient(68.15deg, #0b025a 16.62%, #045bdd 85.61%);
 }
 
 .cabecalho {
@@ -31,14 +31,14 @@ body {
 
 .cabecalho-menu-item {
   font-family: 'Sarala', sans-serif;
-  color: #FFF2E7;
+  color: #fcfcfd;
   font-weight: 400;
   font-size: 18px
 }
 
 .conteudo {
   margin-bottom: 48px;
-  border-top: 0.4px solid #FFF2E7;
+  border-top: 0.4px solid #f7f7f7;
 }
 
 .conteudo-principal {
@@ -65,11 +65,11 @@ body {
   font-family: 'Sarala', sans-serif;
   font-weight: 400;
   font-size: 24px;
-  color: #ECD6C4;
+  color: #ffffff;
 }
 
 .conteudo-principal-escrito-botao {
-  background-color: #ECD6C4;
+  background-color: #fffffffd;
   width: 180px;
   height: 60px;
   border: none;
@@ -82,7 +82,7 @@ body {
 }
 
 .conteudo-principal-escrito-botao:hover {
-  background-color: rgba(236, 214, 196, 0.53);
+  background-color: hsl(0, 0%, 99%);
 }
 
 .conteudo-principal-imagem {
